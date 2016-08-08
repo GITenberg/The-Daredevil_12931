@@ -1,0 +1,29 @@
+_repo: The-Daredevil_12931
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 12931/12931-h/images/frontis.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Daviess, Maria Thompson
+    birthdate: 1872
+    deathdate: 1924
+    gutenberg_agent_id: '1284'
+    url: http://www.gutenberg.org/2009/agents/1284
+description: ''
+gutenberg_issued: '2004-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: The Daredevil
+url: http://www.gutenberg.org/ebooks/12931
